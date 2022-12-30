@@ -12,15 +12,5 @@
 		"services/AssetValidationService",
 		"services/2016-roblox"
 	]
-{
-    "knex": {
-	"client": "pg",
-        "connection": {
-        "host": "127.0.0.1",
-        "user": "ROBLOX",
-        "password": "daniel",
-        "database": "M4G"
-        }
-    }
 }
 }
